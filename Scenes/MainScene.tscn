@@ -788,7 +788,7 @@ material/0 = null
 shape = SubResource( 7 )
 
 [node name="DirectionalLight" type="DirectionalLight" parent="."]
-transform = Transform( 0.707107, -0.5, 0.5, 0, 0.707107, 0.707107, -0.707107, -0.5, 0.5, 0, 10.4142, 0 )
+transform = Transform( 0.707107, -0.353553, 0.612373, 0, 0.866026, 0.5, -0.707107, -0.353553, 0.612372, 0, 10.4142, 0 )
 shadow_enabled = true
 __meta__ = {
 "_edit_group_": true
